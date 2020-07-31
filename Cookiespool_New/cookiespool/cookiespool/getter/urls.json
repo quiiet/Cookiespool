@@ -1,0 +1,5 @@
+{
+    "qqmail" :"https://mail.qq.com/cgi-bin/loginpage",
+    "meituan":"https://passport.meituan.com/account/unitivelogin?service=www&continue=https%3A%2F%2Fwww.meituan.com%2Faccount%2Fsettoken%3Fcontinue%3Dhttps%253A%252F%252Fcq.meituan.com%252F",
+    "meituantest":"https://cq.meituan.com/"
+}

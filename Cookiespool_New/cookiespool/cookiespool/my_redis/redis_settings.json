@@ -1,0 +1,6 @@
+{
+    "PROT" :6379,
+    "HOST" :"localhost",
+    "DB" :0,
+    "PASSWD" :"None"
+}

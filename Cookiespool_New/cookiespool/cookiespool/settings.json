@@ -1,0 +1,7 @@
+{
+    "HOST" :"127.0.0.1",
+    "port" :5555,
+    "TESTER_ENABLE" :0,
+    "GENERATOR_ENABLE" :1,
+    "API_ENABLE" :0
+}
